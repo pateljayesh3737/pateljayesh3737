@@ -1,7 +1,7 @@
 ![my-header-img](https://github.com/user-attachments/assets/46ea8922-613f-48a5-b3a2-3a098b997601)
 
 - 🔭 I’m currently working as a senior Android developer for [ilaBank](https://play.google.com/store/apps/details?id=com.bankabc.ilabank)
-- 🌱 I’m currently learning Kotlin Multiplatform, Compose Multiplatform, Flutter, SwiftUI
+- 🌱 I’m currently learning Kotlin Multiplatform, Compose Multiplatform, Flutter, SwiftUI, and analytics tools such as Adobe Analytics and Amplitude
 - 💬 Ask me about Android Development, CI/CD Workflows for Mobile Apps
 
 <h3 align="center">Skills and Experience:</h3>
